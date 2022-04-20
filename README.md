@@ -4,10 +4,10 @@ These assets are free resources to use on your Github profile.
 
 Download the .ai file with all or just the one you need in .svg format.
 
-## To use in your "Readme.md", use the following link path structure:
+## To use in your "Readme.md", use the following link path structure.
 
 ```
-https://cdn.rawgit.com/<repo-owner>/<repo>/<branch>/path/to.svg
+https://cdn.rawgit.com/creativoma/assets-creativoma/main/language-and-tools-logos/export-svg/angular.svg
 ```
 
 ## Screenshot
