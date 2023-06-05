@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Degradado_sin_nombre_41);
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_43);
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_42);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_43" data-name="Degradado sin nombre 43" x1="76.62" y1="954.27" x2="123.87" y2="907.02" gradientTransform="translate(0 -780.89)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#0095d5"/>
+      <stop offset=".3" stop-color="#238ad9"/>
+      <stop offset=".62" stop-color="#557bde"/>
+      <stop offset=".86" stop-color="#7472e2"/>
+      <stop offset="1" stop-color="#806ee3"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_42" data-name="Degradado sin nombre 42" x1="57" y1="850.97" x2="84.44" y2="823.53" gradientTransform="translate(0 -780.89)" gradientUnits="userSpaceOnUse">
+      <stop offset=".12" stop-color="#0095d5"/>
+      <stop offset=".42" stop-color="#3c83dc"/>
+      <stop offset=".7" stop-color="#6d74e1"/>
+      <stop offset=".83" stop-color="#806ee3"/>
+    </linearGradient>
+    <linearGradient id="Degradado_sin_nombre_41" data-name="Degradado sin nombre 41" x1="33.15" y1="922.82" x2="126.21" y2="829.76" gradientTransform="translate(0 -780.89)" gradientUnits="userSpaceOnUse">
+      <stop offset=".11" stop-color="#c757bc"/>
+      <stop offset=".21" stop-color="#d0609a"/>
+      <stop offset=".43" stop-color="#e1725c"/>
+      <stop offset=".6" stop-color="#ee7e2f"/>
+      <stop offset=".74" stop-color="#f58613"/>
+      <stop offset=".82" stop-color="#f88909"/>
+    </linearGradient>
+  </defs>
+  <polygon class="cls-2" points="50 150 100.17 99.83 150 150 50 150"/>
+  <polygon class="cls-3" points="50 50 100.17 50 50 104.17 50 50"/>
+  <polygon class="cls-1" points="100.17 50 50 102.83 50 150 100.17 99.83 150 50 100.17 50"/>
+</svg>
